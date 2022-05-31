@@ -14,4 +14,4 @@ Scalar functions return a single data value (not a table) with RETURNS clause. S
 ## Summary 
 Based on the answers of the two questions above, we can have some basic knowledge for how to use Scalar, Inline, and Multi-Statement Functions to processing data.  In general, they all help to archive goal easier maintenance and improving performance. 
 
-### ![alt text] (https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d.jpg "tooltip text")
+![Result of Coding] (https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d.jpg "Result of Coding") #### Coding. Result of Coding
